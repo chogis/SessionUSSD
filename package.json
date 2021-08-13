@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-VoIpUSSD",
   "version": "0.0.1",
-  "description": "A android cordova plugin version of VoIpUSSD.",
+  "description": "An android cordova plugin version of VoIpUSSD.",
   "cordova": {
     "id": "cordova-plugin-VoIpUSSD",
     "platforms": [
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmxakalogistik/cordova-plugin-VoIpUSSD.git"
+    "url": "git+https://github.com/chogis/SessionUSSD.git"
   },
   "keywords": [
     "ussd",
@@ -23,10 +23,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Ramy Mokako <ramymokako@gmail.com>",
+  "author": "Chogis <chogis@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rmxakalogistik/cordova-plugin-VoIpUSSD/issues"
+    "url": "https://github.com/chogis/SessionUSSD/issues"
   },
-  "homepage": "https://github.com/rmxakalogistik/cordova-plugin-VoIpUSSD/"
+  "homepage": "https://github.com/chogis/SessionUSSD"
 }
